@@ -1,0 +1,13 @@
+.rule__form {
+	display: flex;
+}
+
+.rule__inputs {
+	flex: 1;
+}
+
+.rule__preferences {
+	display: flex;
+	align-items: center;
+	border-left: 1px solid var(--separator_common);
+}
